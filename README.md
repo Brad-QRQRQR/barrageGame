@@ -1,2 +1,4 @@
-# 彈幕遊戲專案
-高一升高二的暑假時以python + pygame寫成的彈幕遊戲專案，並以lmms + sfxr製作音樂，小畫家自行繪製角色，並以pyinstaller打包為exe檔
+# Self-learning Project - Barrage Game
+A simple barrage game made by **python** plus **pygame**.
+Music is made by **lmms**, and sound effects is made by **sfxr**.
+The game has been packaged into an executable file using pyinstaller.
